@@ -1,4 +1,4 @@
-# Program to check if a number is prime or not
+# Python program to check if a number is prime or not
 num = 80
 # To take input from the user
 #num = int(input("Enter a number: "))
@@ -19,3 +19,6 @@ if flag:
     print(num, "is not a prime number")
 else:
     print(num, "is a prime number")
+
+
+##### fpg,pg,pg,
